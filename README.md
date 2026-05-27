@@ -1,4 +1,8 @@
-# Personal Portfolio ⚡️ 
+#my portfolio
+
+
+<!-- 
+ # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://your-github-username.github.io
@@ -69,4 +73,4 @@ To view a live example, **[click here](https://your-github-username.github.io/)*
 - 🔃 Create a new pull request.
 
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details. -->
