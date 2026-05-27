@@ -1,76 +1,32 @@
-#my portfolio
+# ✨ Rati Yadav Portfolio
 
+Welcome to my personal portfolio website!  
+This portfolio showcases my projects, skills, achievements, and journey as a Full Stack Web Developer. 🚀
 
-<!-- 
- # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+## 🌐 Live Website
+https://rati-yadav.github.io/Rati_Yadav_Portfolio/
 
-> https://your-github-username.github.io
+## 💻 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 
-![GitHub stars](https://img.shields.io/github/stars/your-github-username/your-github-username.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/your-github-username/your-github-username.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/your-github-username/your-github-username.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://your-github-username.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/your-linkedin-handle/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+## ✨ Features
+✔ Responsive Design  
+✔ Modern UI/UX  
+✔ Projects Showcase  
+✔ Resume Download  
+✔ Contact Section  
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://your-github-username.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
+## 📌 About Me
+I’m a passionate Full Stack Developer who enjoys building clean, responsive, and user-friendly web applications. I love learning new technologies and solving real-world problems through code.
 
-:star: Star me on GitHub — it helps!
+## 📫 Connect With Me
+- LinkedIn:(https://www.linkedin.com/in/rati-yadav-995b923aa/)
+- GitHub: https://github.com/rati-yadav
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
-
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `your-github-username.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
-
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
-
-To view a live example, **[click here](https://your-github-username.github.io/)**
-
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
-
-## Contributing 💡
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details. -->
+⭐ If you like this project, don’t forget to star the repository!
