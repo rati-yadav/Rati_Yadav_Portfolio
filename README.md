@@ -9,7 +9,6 @@ https://rati-yadav.github.io/Rati_Yadav_Portfolio/
 ## 💻 Tech Stack
 - HTML5
 - CSS3
-- Typed.js
 
 ## ✨ Features
 ✔ Responsive Design  
