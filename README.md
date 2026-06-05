@@ -9,11 +9,6 @@ https://rati-yadav.github.io/Rati_Yadav_Portfolio/
 ## 💻 Tech Stack
 - HTML5
 - CSS3
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
 
 ## ✨ Features
 ✔ Responsive Design  
